@@ -1,0 +1,20 @@
+# Local Python environments and caches
+.venv/
+backend/venv/
+backend/.venv_new/
+__pycache__/
+*.py[cod]
+
+# Frontend dependencies and build output
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+
+# Local editor and operating-system files
+.DS_Store
+.idea/
+.vscode/*.log
+
+# Logs and local environment overrides
+*.log
+*.local
